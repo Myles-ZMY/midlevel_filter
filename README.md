@@ -2,7 +2,7 @@ Learning Mid-level Filters for Reid
 ==========================================
 
 - Matlab code for our CVPR 2014 work "Learning Mid-level filters for Person Re-identification". 
-- This code is still under arrangement.
+- This code is still under construction.
 
 
 Installation
